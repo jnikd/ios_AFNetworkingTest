@@ -1,0 +1,4 @@
+ios_AFNetworkingTest
+====================
+
+AFNetworkingのテスト
